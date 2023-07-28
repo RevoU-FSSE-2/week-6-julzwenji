@@ -20,8 +20,10 @@ Docker installation:
 18. ![image](https://github.com/RevoU-FSSE-2/week-6-julzwenji/assets/135611712/efced256-a276-4e3b-8f73-1d3d95cf404e)
 19. After you done, run the downloaded file and just do the next-next ritual:
 20. ![image](https://github.com/RevoU-FSSE-2/week-6-julzwenji/assets/135611712/bd807415-6090-4f12-925c-552897fcdd2f)
-21. once your installation done, get back to Docker.
-22. 
+21. Once your installation done, get back to Docker.
+22. Now everything should be fine and you will see this kind of view:
+23. ![image](https://github.com/RevoU-FSSE-2/week-6-julzwenji/assets/135611712/72efe81e-8680-4935-9345-17fdcfd3608d)
+
 
 
 
