@@ -12,6 +12,15 @@ Docker installation:
 10. ![image](https://github.com/RevoU-FSSE-2/week-6-julzwenji/assets/135611712/0b7a005e-5935-4220-9fc6-2611c551c378)
 11. After the installation is done, you'll be asked for a restart, do it then!
 12. ![image](https://github.com/RevoU-FSSE-2/week-6-julzwenji/assets/135611712/fed83a9e-3072-435a-82c5-6c9c034e0d80)
+13. After that, open Docker and walkthrough the quickstart:
+14. ![image](https://github.com/RevoU-FSSE-2/week-6-julzwenji/assets/135611712/2f34f167-99ce-41a2-b507-4ecee77f41a5)
+15. If this window pops up, please do not panic, just follow the link to install the newest WSL version:
+16. ![image](https://github.com/RevoU-FSSE-2/week-6-julzwenji/assets/135611712/7c936671-b7a1-4dba-9166-6dd84fae6c88)
+17. You'll be redirected to the page below, and just click on the link I marked within red circle and your download will automatically started.
+18. ![image](https://github.com/RevoU-FSSE-2/week-6-julzwenji/assets/135611712/efced256-a276-4e3b-8f73-1d3d95cf404e)
+
+
+
 
 
 
