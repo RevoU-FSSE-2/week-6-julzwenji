@@ -24,6 +24,12 @@ Docker installation:
 22. Now everything should be fine and you will see this kind of view:
 23. ![image](https://github.com/RevoU-FSSE-2/week-6-julzwenji/assets/135611712/72efe81e-8680-4935-9345-17fdcfd3608d)
 
+Checking Docker's version:
+
+1. After everything above was done, go open your CMD/Terminal, type (without the quotes) "Docker --Version" and the result must be like this:
+2. ![image](https://github.com/RevoU-FSSE-2/week-6-julzwenji/assets/135611712/9fe60039-56b6-45ec-b9ad-8029654af0b6)
+
+
 
 
 
