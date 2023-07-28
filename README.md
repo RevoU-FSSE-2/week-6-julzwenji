@@ -18,6 +18,11 @@ Docker installation:
 16. ![image](https://github.com/RevoU-FSSE-2/week-6-julzwenji/assets/135611712/7c936671-b7a1-4dba-9166-6dd84fae6c88)
 17. You'll be redirected to the page below, and just click on the link I marked within red circle and your download will automatically started.
 18. ![image](https://github.com/RevoU-FSSE-2/week-6-julzwenji/assets/135611712/efced256-a276-4e3b-8f73-1d3d95cf404e)
+19. After you done, run the downloaded file and just do the next-next ritual:
+20. ![image](https://github.com/RevoU-FSSE-2/week-6-julzwenji/assets/135611712/bd807415-6090-4f12-925c-552897fcdd2f)
+21. once your installation done, get back to Docker.
+22. 
+
 
 
 
