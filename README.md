@@ -29,6 +29,20 @@ Checking Docker's version:
 1. After everything above was done, go open your CMD/Terminal, type (without the quotes) "Docker --Version" and the result must be like this:
 2. ![image](https://github.com/RevoU-FSSE-2/week-6-julzwenji/assets/135611712/9fe60039-56b6-45ec-b9ad-8029654af0b6)
 
+Creatin Docker Image:
+
+1. After all done, download the file from assignment's attached link.
+2. Copy to a folder, and go to your Visual Studio and choose that folder.
+3. Add new file with specific name "Dockerfile" (A MUST)! Now you have 2 files inside your folder.
+4. ![image](https://github.com/RevoU-FSSE-2/week-6-julzwenji/assets/135611712/d6e140af-c1e8-40e5-89de-8db05a3f8856)
+5. Add these commands on screen to your Docker file:
+6. ![image](https://github.com/RevoU-FSSE-2/week-6-julzwenji/assets/135611712/018aeab3-bbfc-4c7b-8396-f48d91924334)
+7. Then open terminal, and insert the command below:
+8. ![image](https://github.com/RevoU-FSSE-2/week-6-julzwenji/assets/135611712/7f79ecfa-f565-4280-8d73-a7ede2e6c5b8)
+9. Wait until finished and your image is done.
+ 
+
+
 
 
 
