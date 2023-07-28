@@ -41,6 +41,16 @@ Creatin Docker Image:
 8. ![image](https://github.com/RevoU-FSSE-2/week-6-julzwenji/assets/135611712/7f79ecfa-f565-4280-8d73-a7ede2e6c5b8)
 9. Wait until finished and your image is done.
  
+Running The Container:
+
+1. After image making done, put this command on your Terminal:
+2. ![image](https://github.com/RevoU-FSSE-2/week-6-julzwenji/assets/135611712/b76c7c6d-8ae2-49a8-aba4-1de7babc26a1)
+3. Then a Pop-up will appear:
+4. ![image](https://github.com/RevoU-FSSE-2/week-6-julzwenji/assets/135611712/c6f4c559-aa0c-4aa3-ab1f-b05fdc6eca04)
+
+As the original JS file calling to server, the Docker version also do the same, so the objective now achieved.
+
+Thank you!
 
 
 
